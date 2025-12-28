@@ -15,6 +15,22 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, Postman
+- 
+## 📁 Projects
+### **Skill Development Platform**
+- MERN Stack Project
+- A platform for skill learning and tracking progress
+- [Repo Link](https://github.com/DharsanaM25/Skill_Development_Platform)
+
+### **Portfolio**
+- Personal portfolio website
+- Built with React
+- [Repo Link](https://github.com/DharsanaM25/Portfolio)
+
+### **Apple_CLone**
+- Apple_Clone Website
+- Built with HTML and CSS
+- [Repo Link](https://github.com/DharsanaM25/Apple_Clone)
 
 ## 📫 Contact
 - 📧 Email: **dharsana252@gmail.com**
